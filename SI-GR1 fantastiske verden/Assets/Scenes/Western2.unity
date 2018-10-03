@@ -3092,7 +3092,7 @@ MonoBehaviour:
         fsmQuaternionParams: []
         stringParams:
         - escape pressed
-        byteData: 1b0000000101
+        byteData: 080000000101
         arrayParamSizes: 01000000
         arrayParamTypes:
         - HutongGames.PlayMaker.FsmBool
